@@ -1,0 +1,27 @@
+[
+  {
+    "key": "SecilenUrunuFavoriyeEkleme",
+    "androidValue": "com.pozitron.hepsiburada:id/selectorIconFavorite",
+    "androidType": "id"
+  },
+  {
+    "key": "SecilenUrundenGeriGelme",
+    "androidValue": "com.pozitron.hepsiburada:id/leftIcon",
+    "androidType": "id"
+  },
+  {
+    "key": "KalpButonundanFavorilereEkleme",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/androidx.appcompat.widget.LinearLayoutCompat/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[4]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ListelerimeGitme",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Listelerim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "BegendiklereGitme",
+    "androidValue": "//android.view.View[@content-desc=\"Beğendiklerim Gizli liste Ürün ekle\"]/android.view.View[1]",
+    "androidType": "xpath"
+  }
+]

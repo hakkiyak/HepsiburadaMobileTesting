@@ -1,0 +1,102 @@
+19-04-2023 14:56:22.639 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+19-04-2023 14:56:22.654 [Gauge] [INFO] Initializing specs cache with 1 specs
+19-04-2023 14:56:22.655 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\example.spec
+19-04-2023 14:56:22.655 [Gauge] [INFO] Initializing steps cache with 1 steps
+19-04-2023 14:56:22.655 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52059
+19-04-2023 14:56:22.655 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\HakkıOdev\specs
+19-04-2023 14:56:22.655 [Gauge] [DEBUG] Found 1 files
+19-04-2023 14:56:22.967 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+19-04-2023 14:56:22.982 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse  messageId:5  libPathResponse:{path:"C:\\Users\\testinium\\AppData\\Roaming\\gauge\\plugins\\java\\0.9.1\\libs"}
+19-04-2023 15:24:05.642 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts
+19-04-2023 15:24:05.642 [Gauge] [DEBUG] Found 0 files
+19-04-2023 15:24:14.350 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\login.cpt
+19-04-2023 15:24:14.394 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\login.cpt
+19-04-2023 15:24:14.417 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\login.cpt
+19-04-2023 15:24:14.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"step1"}
+19-04-2023 15:24:14.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"step1"  parameterizedStepValue:"step1"}}
+19-04-2023 15:24:14.876 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+19-04-2023 15:24:14.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+19-04-2023 15:24:14.877 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+19-04-2023 15:24:14.877 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+19-04-2023 15:24:14.877 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+19-04-2023 15:24:14.878 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+19-04-2023 15:24:14.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Concept Heading"}
+19-04-2023 15:24:14.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Concept Heading"  parameterizedStepValue:"Concept Heading"}}
+19-04-2023 15:24:14.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"step2"}
+19-04-2023 15:24:14.961 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"step2"  parameterizedStepValue:"step2"}}
+19-04-2023 15:24:41.621 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt
+19-04-2023 15:24:41.641 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt
+19-04-2023 15:24:41.647 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\login.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:24:41.648 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt
+19-04-2023 15:24:48.105 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt
+19-04-2023 15:24:48.125 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt
+19-04-2023 15:24:48.130 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:24:48.130 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt
+19-04-2023 15:25:13.434 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt
+19-04-2023 15:25:13.453 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt
+19-04-2023 15:25:13.456 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:25:13.456 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt
+19-04-2023 15:25:20.876 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\ürünarama.cpt
+19-04-2023 15:25:20.897 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\ürünarama.cpt
+19-04-2023 15:25:20.899 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\ürünarama.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:25:20.899 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\ürünarama.cpt
+19-04-2023 15:25:26.480 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt
+19-04-2023 15:25:26.495 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt
+19-04-2023 15:25:26.501 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\ürünarama.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:25:26.501 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt
+19-04-2023 15:25:35.961 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\randomürün.cpt
+19-04-2023 15:25:35.979 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\randomürün.cpt
+19-04-2023 15:25:35.984 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\randomürün.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:25:35.984 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\randomürün.cpt
+19-04-2023 15:25:52.758 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:25:52.775 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:25:52.780 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt:4 Duplicate concept definition found => 'Concept Heading' [ParseError] C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\randomürün.cpt:4 Duplicate concept definition found => 'Concept Heading']
+19-04-2023 15:25:52.780 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:26:08.458 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\HepsiBurada.spec
+19-04-2023 15:26:08.480 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\HepsiBurada.spec
+19-04-2023 15:26:08.482 [Gauge] [DEBUG] Spec file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\HepsiBurada.spec
+19-04-2023 15:28:14.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"UruneTekrarClickEkleme\" xpath'li elemente tikla"}
+19-04-2023 15:28:14.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} xpath'li elemente tikla"  parameterizedStepValue:"<UruneTekrarClickEkleme> xpath'li elemente tikla"  parameters:"UruneTekrarClickEkleme"}}
+19-04-2023 15:28:14.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Sepetten yeniden urun secme"}
+19-04-2023 15:28:14.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Sepetten yeniden urun secme"  parameterizedStepValue:"Sepetten yeniden urun secme"}}
+19-04-2023 15:28:14.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Secilen urun sayisi artirma"}
+19-04-2023 15:28:14.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Secilen urun sayisi artirma"  parameterizedStepValue:"Secilen urun sayisi artirma"}}
+19-04-2023 15:28:14.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Alısverisi tamamla butonuna tıklama"}
+19-04-2023 15:28:14.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Alısverisi tamamla butonuna tıklama"  parameterizedStepValue:"Alısverisi tamamla butonuna tıklama"}}
+19-04-2023 15:28:14.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"UrundeArtıyaBasma\" xpath'li elemente tikla"}
+19-04-2023 15:28:14.977 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} xpath'li elemente tikla"  parameterizedStepValue:"<UrundeArtıyaBasma> xpath'li elemente tikla"  parameters:"UrundeArtıyaBasma"}}
+19-04-2023 15:28:15.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"AlısVerisiTamamla\" id'li elemente tikla"}
+19-04-2023 15:28:15.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} id'li elemente tikla"  parameterizedStepValue:"<AlısVerisiTamamla> id'li elemente tikla"  parameters:"AlısVerisiTamamla"}}
+19-04-2023 15:28:19.703 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:28:19.719 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:28:25.197 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"\"HomePage\" xpath'li element gorunur olana kadar bekle"}
+19-04-2023 15:28:25.197 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"{} xpath'li element gorunur olana kadar bekle"  parameterizedStepValue:"<HomePage> xpath'li element gorunur olana kadar bekle"  parameters:"HomePage"}}
+19-04-2023 15:28:25.287 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Anasayfa Kontrol"}
+19-04-2023 15:28:25.287 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Anasayfa Kontrol"  parameterizedStepValue:"Anasayfa Kontrol"}}
+19-04-2023 15:28:26.115 [Gauge] [DEBUG] Concept file added / modified: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt
+19-04-2023 15:43:24.450 [Gauge] [INFO] Initializing concepts cache with 14 concepts
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\anasayfa.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\listelerdegörüntüleme.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\login.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\randomürün.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\favoriler.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\ürünarama.cpt
+19-04-2023 15:43:24.450 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\alisveristamamlama.cpt
+19-04-2023 15:43:24.451 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts\sepet.cpt
+19-04-2023 15:43:24.463 [Gauge] [INFO] Initializing specs cache with 2 specs
+19-04-2023 15:43:24.463 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\HepsiBurada.spec
+19-04-2023 15:43:24.463 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\IdeaProjects\HakkıOdev\specs\example.spec
+19-04-2023 15:43:24.463 [Gauge] [INFO] Initializing steps cache with 10 steps
+19-04-2023 15:43:24.463 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52567
+19-04-2023 15:43:24.468 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\HakkıOdev\specs
+19-04-2023 15:43:24.469 [Gauge] [DEBUG] Found 3 files
+19-04-2023 15:43:24.470 [Gauge] [DEBUG] Watching directory: C:\Users\testinium\IdeaProjects\HakkıOdev\specs\Conscepts
+19-04-2023 15:43:24.470 [Gauge] [DEBUG] Found 8 files
+19-04-2023 15:43:24.925 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+19-04-2023 15:43:24.927 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse  messageId:5  libPathResponse:{path:"C:\\Users\\testinium\\AppData\\Roaming\\gauge\\plugins\\java\\0.9.1\\libs"}

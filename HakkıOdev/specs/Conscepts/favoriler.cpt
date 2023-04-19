@@ -1,0 +1,8 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Random gelen urune tıklanarak favorilere eklenir ve geri gelinir
+* "SecilenUrunuFavoriyeEkleme"  id'li elemente tikla
+* "SecilenUrundenGeriGelme" id'li elemente tikla
+# Ikinci urunun uzerinden kalp simgesine tiklanarak favorilere ekleme
+* "KalpButonundanFavorilereEkleme" id'li elemente tikla

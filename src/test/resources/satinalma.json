@@ -1,0 +1,47 @@
+[
+  {
+    "key": "IlkUrunuSepeteEkle",
+    "androidValue": "//android.view.View[@content-desc=\"123 599,90 TL Link Gelir'le %7 kazanç gelsin Fisher-Price Eğlen Ve Öğren Eğitici Büyük Köpekçik - Türkçe, Eğitici İçerikleriyle Müzikli Büyük Pelüş Oyuncak, 18-36 Aylık Çocuklar İçin Hhh11 4,6 244 Değerlendirme Sepete ekle\"]/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "IkıncıUrunuSepeteEkle",
+    "androidValue": "//android.view.View[@content-desc=\"12 79,89 TL Link Gelir'le %7 kazanç gelsin Mısır Bebek Diş Kaşıyıcı Diş Fırçası Açık Yeşil 4,7 625 Değerlendirme Sepete ekle\"]/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SepeteGitme",
+    "androidValue": "com.pozitron.hepsiburada:id/nav_graph_cart",
+    "androidType": "id"
+  },
+  {
+    "key": "UrundenClickKaldırma",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView[1]/android.view.View/android.view.View/android.widget.CheckBox",
+    "androidType": "xpath"
+  },
+  {
+    "key": "CopeTıklama",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View[3]/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SecilenleriSilme",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[2]/android.view.View/android.view.View[2]/android.widget.Button[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UruneTekrarClickEkleme",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.widget.CheckBox",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UrundeArtıyaBasma",
+    "androidValue": "//android.view.View[@content-desc=\"Ürünü Arttır\"]/android.widget.Image",
+    "androidType": "xpath"
+  },
+  {
+    "key": "AlısVerisiTamamla",
+    "androidValue": "continue_step_btn",
+    "androidType": "id"
+  }
+]

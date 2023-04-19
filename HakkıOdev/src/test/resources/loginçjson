@@ -1,0 +1,52 @@
+[
+  {
+    "key": "HomePage",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Anasayfam\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "ClickProfileButton",
+    "androidValue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "Login",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "LoginCheck",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "Emailgiris",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "LoginButton",
+    "androidValue": "btnLogin",
+    "androidType": "id"
+  },
+  {
+    "key": "Hosgeldinizkontrol",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SifreGiris",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[3]/android.view.View/android.widget.EditText",
+    "androidType": "xpath"
+  },
+  {
+    "key": "GirisYapıldıKontrol",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  },
+  {
+    "key": "ProfildeCarpıyaBas",
+    "androidValue": "com.pozitron.hepsiburada:id/ivToolbarBack",
+    "androidType": "id"
+  }
+]

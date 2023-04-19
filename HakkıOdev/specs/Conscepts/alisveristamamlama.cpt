@@ -1,0 +1,9 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Sepetten yeniden urun secme
+* "UruneTekrarClickEkleme" xpath'li elemente tikla
+# Secilen urun sayisi artirma
+* "UrundeArtıyaBasma" xpath'li elemente tikla
+# Alısverisi tamamla butonuna tıklama
+* "AlısVerisiTamamla" id'li elemente tikla

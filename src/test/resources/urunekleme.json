@@ -1,0 +1,12 @@
+[
+  {
+    "key": "UrunArama",
+    "androidValue": "com.pozitron.hepsiburada:id/etSearchBox",
+    "androidType": "id"
+  },
+  {
+    "key": "RandomUrunSecme",
+    "androidValue": "com.pozitron.hepsiburada:id/rvPlp",
+    "androidType": "id"
+  }
+]

@@ -1,0 +1,7 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Alt menüden listelerime gitme
+* "ListelerimeGitme" xpath'li elemente tikla
+# Listelerden favorilere eklenenleri görüntüleme
+* "BegendiklereGitme" xpath'li elemente tikla

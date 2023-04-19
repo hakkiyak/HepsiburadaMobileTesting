@@ -1,0 +1,13 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Var olan hesabımızla login olma
+* "ClickProfileButton" id'li elemente tikla
+* "Login" id'li elemente tikla
+* "LoginCheck" xpath'li element gorunur olana kadar bekle
+* "Emailgiris" id'li elemente "hakki.kiyak71@gmail.com" text degerini gonder
+* "LoginButton" id'li elemente tikla
+* "Hosgeldinizkontrol" xpath'li element gorunur olana kadar bekle
+* "SifreGiris" xpath'li elemente "9512643Aa." text degerini gonder
+* "GirisYapıldıKontrol" li element gorunur olana kadar bekle
+* "ProfildeCarpıyaBas" id'li elemente tikla

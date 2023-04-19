@@ -1,0 +1,12 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Secilen urunler sepete eklenir
+* "IlkUrunuSepeteEkle" xpath'li elemente tikla
+* "IkıncıUrunuSepeteEkle"xpath'li elemente tikla
+# Sepet Goruntulenir
+* "SepeteGitme" id'li elemente tikla
+# Sepetten urun kaldırma
+* "UrundenClickKaldırma" xpath'li elemente tikla
+* "CopeTıklama" xpath'li elemente tikla
+* "SecilenleriSilme" xpath'li elemente tikla
